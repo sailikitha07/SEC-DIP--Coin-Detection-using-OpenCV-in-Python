@@ -75,5 +75,7 @@ plt.show()
 ```
 ### Output :
 <img width="423" height="402" alt="image" src="https://github.com/user-attachments/assets/830c6fc7-591b-450e-94d2-5dea986ce2b8" />
+
 ### Result :
+
 The system successfully detected all coins in the given image.
